@@ -1,0 +1,6 @@
+curl https://api.github.com/repos/Swati3031/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "full_name": "Swati3031/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true
+}
